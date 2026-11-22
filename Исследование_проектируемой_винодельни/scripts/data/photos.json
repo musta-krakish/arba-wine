@@ -1,0 +1,261 @@
+{
+ "C1": {
+  "page": "https://ag.dji.com/t50",
+  "img": "https://www-cdn.djiits.com/cms/uploads/01a263d016fe2160032808e7d5fbbf0d.png"
+ },
+ "C2": {
+  "page": "https://www.heliguy.com/products/dji-agras-t50-c10000-intelligent-power-supply/",
+  "img": "https://cdn.shopify.com/s/files/1/0480/3146/5632/files/Productimageshape_11.png?v=1714466147"
+ },
+ "C3": {
+  "page": "https://ag.dji.com/mavic-3-m",
+  "img": "https://www-cdn.djiits.com/cms/uploads/dd13ac74b721a8ac4fa3ce320246ac2e.png"
+ },
+ "C4": {
+  "page": "https://www.asecos.com/Safety-storage-cabinets/ION-LINE/ION-LINE/EN_index_3455.html",
+  "img": "https://www.asecos.com/asecos/img/Produkte/asecos_ION_Uebersicht_gross_26_1000x1000.png",
+  "note": "серия ION-LINE"
+ },
+ "C5": {
+  "page": "https://galad.ru/catalog/outdoor/street/pobeda/",
+  "img": "https://galad.ru/upload/iblock/78f/thl0s8mtdodhio4yw5qbvm66zmy6gip6/25359eb0_ecb2_498d_90d1_57d829e98494_ul_pobeda2_s_1.jpg",
+  "note": "серия Победа LED"
+ },
+ "C6": {
+  "page": "https://galad.ru/catalog/indoor/industrial/arklayn-ekonom/",
+  "img": "https://galad.ru/upload/iblock/dc8/wdd923fnm3noc5r26ejdjtot1ge6i7l4/7a7afcd4_5b5c_4787_bad3_25c8bda050c2_arklajn_jekonom_dsp04_1.jpg",
+  "note": "серия Арклайн Эконом"
+ },
+ "C7": {
+  "page": "https://www.netafim.com/en/products-and-solutions/tools/fertigation/netajet-4g/",
+  "img": "https://www.netafim.com/globalassets/netajet-4g-lp/netajet4g_image-310x230.png"
+ },
+ "C8": {
+  "page": "https://www.netafimindia.com/digital-farming_old/netbeat/Control/",
+  "img": "https://www.netafimindia.com/globalassets/digital-farming/control/nmc-pro_g_s.jpg"
+ },
+ "C9": {
+  "page": "https://azud.com/en/productos/azud-helix-automatic-200-dlp/",
+  "img": "https://azud.com/wp-content/uploads/2025/07/AZUD_HELIX_AUTOMATIC_200_300_con_logos-3.webp"
+ },
+ "C10": {
+  "page": "https://mundoriego.es/en/product/solenoid-s-390-t-2w-r-bermad-24v-ac-2-ways-2-wires-nc/",
+  "img": "https://mundoriego.es/wp-content/uploads/2020/07/Solenoide-S-390-T-2W-M-BERMAD-24V-AC-2-vias-2-hilos-NC-1.jpg",
+  "note": "фото интернет-магазина"
+ },
+ "C11": {
+  "page": "https://iot-shop.de/en/shop/met-teros12-meter-teros-12-soil-moisture-sensor-temperature-conductivity-7172",
+  "img": "https://iot-shop.de/web/image/product.template/7172/image_1024?unique=60d327a",
+  "note": "фото интернет-магазина"
+ },
+ "C12": {
+  "page": "https://www.davisinstruments.com/pages/vantage-pro2",
+  "img": "https://www.davisinstruments.com/cdn/shop/files/6252WirelessVP2.jpg"
+ },
+ "C13": {
+  "page": "https://docs.rakwireless.com/product-categories/wisgate/rak7289v2/overview/",
+  "img": "https://images.docs.rakwireless.com/wisgate/rak7289v2-rak7289cv2/rak7289v2.png"
+ },
+ "C14": {
+  "page": "https://ventilation-system.com/product/ov-4d-450",
+  "img": "https://ventilation-system.com/upload/photos/0589376001685965888.png"
+ },
+ "C15": {
+  "page": "https://bolid.ru/production/rip-12_rs.html",
+  "img": "https://shop.bolid.ru/files/368/561/RIP_12_isp.50.png"
+ },
+ "C16": {
+  "page": "https://www.kaercher.com/int/professional/high-pressure-cleaners/hot-water-high-pressure-cleaners/compact-class/hds-8-18-4-c-11749000.html",
+  "img": "https://s1.kaercher-media.com/mam/11749000/mainproduct/143289/d0.jpg"
+ },
+ "C17": {
+  "page": "https://www.buchervaslin.com/produit/pressoir-pneumatique-bucher-xplus/",
+  "img": "https://www.buchervaslin.com/wp-content/uploads/2023/04/bucher-xplus-80.jpg",
+  "note": "на фото XPlus 80, серия XPlus"
+ },
+ "B1": {
+  "page": "https://snol.com/product/snol-58-350-lsn11/",
+  "img": "https://snol.com/wp-content/uploads/2023/02/SNOL_136.jpg"
+ },
+ "B2": {
+  "page": "https://zavod-emo.ru/aqua/aqua-de-4m",
+  "img": "https://zavod-emo.ru/images/aqua/main_d4m.png",
+  "note": "на фото ДЭ-4М, серия ДЭ-4"
+ },
+ "B3": {
+  "page": "https://www.daikin.eu/en_us/products/product.html/FTXM-R.html",
+  "img": "https://my.daikin.eu/content/dam/MDM/Pictures/Split/IndoorUnits/Packshots/FTXM-R.tiff/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+  "note": "серия Perfera FTXM-R"
+ },
+ "B4": {
+  "page": "https://www.dzd.cz/en/ohrivace-a-zasobniky-teple-vody/elektricke/stacionarni/okce-s",
+  "img": "https://lang.dzd.cz/images/sortiment/okce-s.png",
+  "note": "серия OKCE S 160–1000 л"
+ },
+ "B6": {
+  "page": "https://revelationmachinery.com/product/gai-6012-labeling-machine/",
+  "img": "https://revelationmachinery.com/wp-content/uploads/2025/02/1-Large-25.jpeg",
+  "note": "фото б/у машины у перепродавца"
+ },
+ "B7": {
+  "page": "https://www.videojet.com/us/homepage/products/continuous-inkjet-printers/videojet-1580-plus.html",
+  "img": "https://global.videojet.com/wp-content/uploads/dam/image/products/continuous-inkjet-printer/1580-plus/cij-1580-plus-printer-front-home-screen.jpg",
+  "note": "на фото 1580+ (преемник 1580)"
+ },
+ "B8": {
+  "page": "https://www.siat.com/product/sk10/",
+  "img": "https://www.siat.com/wp-content/uploads/2019/11/SK10-1-1.jpg"
+ },
+ "B9": {
+  "page": "https://colonypackaging.com/shop/equipment/stretch-wrapping-equipment/semi-automatic-turntables/aetna-robopac-rotoplat-508-multi-level-control/",
+  "img": "https://colonypackaging.com/wp-content/uploads/aetna-ropopac-rotoplat-508.jpg",
+  "note": "фото дилера"
+ },
+ "B10": {
+  "page": "https://micropower-group.com/products/battery-chargers/sharp-20",
+  "img": "https://micropower-group.com/storage/media/1515/mpg-product-charger-sharp20-800-01-1080x1080-fit-600x600.png",
+  "note": "на фото Micropower Sharp 20"
+ },
+ "B11": {
+  "page": "https://mettlertoledoindia.tradeindia.com/industrial-weighing-terminal-3812674.html",
+  "img": "https://cpimg.tistatic.com/03812674/b/5/Industrial-Weighing-Terminal.jpg",
+  "note": "фото витрины Mettler Toledo India"
+ },
+ "B12": {
+  "page": "https://www.foodonline.com/doc/high-precision-floor-scale-pfk-es-0001",
+  "img": "https://vertassets.blob.core.windows.net/image/4e5427d9/4e5427d9-cdf5-4326-9eea-5c4fbec73359/pfk989.jpg"
+ },
+ "B13": {
+  "page": "https://breezart.ru/catalog/1000-lux/",
+  "img": "https://breezart.ru/export/photo/1000_lux.jpg"
+ },
+ "B14": {
+  "page": "https://www.protherm.ua/customers/protherm/skat-143.html",
+  "img": "https://www.protherm.ua/media-master/global-media/central-master-product-detail-page/2018/sdbg/ray/ray-outside-front-pt-1361937.jpg",
+  "note": "на фото Protherm Ray (Скат), текущее исполнение"
+ },
+ "B15": {
+  "page": "https://www.mta-it.com/eng/products/process-cooling/air-cooled-heat-pumps-1/haeevo-tech.php",
+  "img": "https://www.mta-it.com/backend/prodotti/img_upload/img_zoom/151218160870_i_haeevo_tech_351.png",
+  "note": "серия HAEevo Tech"
+ },
+ "B16": {
+  "page": "https://www.mta-it.com/eng/products/process-cooling/air-cooled-chillers-1/taeevo-tech.php",
+  "img": "https://www.mta-it.com/backend/prodotti/img_upload/img_zoom/260302164070_mta_taeevo_tech_081_201_angle1_edit_4.png",
+  "note": "серия TAEevo Tech"
+ },
+ "B17": {
+  "page": "https://www.powersystems.rehlko.com/emea/Industrial-Power-Generators/J88",
+  "img": "https://images.ctfassets.net/y9fczihu867g/J0088K-02-LargeImage/9f4ba39018085240e1eacedf434ae48f/J0088K-02-LargeImage.jpg"
+ },
+ "B18": {
+  "page": "https://www.lenntech.com/products/grundfos/cr-cre-cri-crie-crn-crne-crt-crte/cr/cr-15/index.htm",
+  "img": "https://static.lenntech.com/uploads/grundfos/IMG/e6/0c/5e67/245715/PRODUCTIMAGE.png",
+  "note": "на фото CR 15-1, серия CR"
+ },
+ "B19": {
+  "page": "https://www.lenntech.com/products/grundfos/sp-spe-sp-ne/sp/98698970.htm",
+  "img": "https://www.lenntech.com/uploads/grundfos/IMG/6c/73/63ae/533714/PRODUCTIMAGE.png",
+  "note": "на фото SP 7-12, серия SP 7"
+ },
+ "B20": {
+  "page": "https://www.anchorpumps.com/grundfos-hydro-multi-e-3-crie3-2",
+  "img": "https://www.anchorpumps.com/media/catalog/product/v/3/v3awgw_2.jpg",
+  "note": "на фото станция из 3 насосов"
+ },
+ "B21": {
+  "page": "https://www.lenntech.com/products/grundfos/cr-cre-cri-crie-crn-crne-crt-crte/cr/cr-45/index.htm",
+  "img": "https://static.lenntech.com/uploads/grundfos/IMG/50/70/f0ba/197106/PRODUCTIMAGE.png",
+  "note": "на фото CR 45-1, серия CR"
+ },
+ "B22": {
+  "page": "https://www.lenntech.com/products/grundfos/cr-cre-cri-crie-crn-crne-crt-crte/cr/cr-125/index.htm",
+  "img": "https://static.lenntech.com/uploads/grundfos/IMG/1f/0f/407a/620994/PRODUCTIMAGE.png",
+  "note": "на фото CR 125-1, серия CR"
+ },
+ "A1": {
+  "page": "https://www.enoveneta.it/prodotti/diraspatura/diraspatrici-top-enoveneta/",
+  "img": "https://www.enoveneta.it/wp-content/uploads/2020/06/TOP-5-INV.png"
+ },
+ "A2": {
+  "page": "https://www.enoveneta.it/prodotti/pompe-per-il-trasferimento/pompe-a-rotore-ellittico-evp/",
+  "img": "https://www.enoveneta.it/wp-content/uploads/2019/04/Pompe-2.png",
+  "note": "серия EVP"
+ },
+ "A3": {
+  "page": "https://www.buchervaslin.com/en/produit/xpro/",
+  "img": "https://www.buchervaslin.com/wp-content/uploads/2023/04/XPro-15-.jpg"
+ },
+ "A4": {
+  "page": "https://www.enoveneta.it/prodotti/ricevimento/tramogge-vibranti/",
+  "img": "https://www.enoveneta.it/wp-content/uploads/2019/04/Ricevimento-7.png"
+ },
+ "A5": {
+  "page": "https://www.enoveneta.it/prodotti/selezione/tavolo-vibrante-cernita/",
+  "img": "https://www.enoveneta.it/wp-content/uploads/2025/11/tvc3-scaled.png"
+ },
+ "A7": {
+  "page": "https://www.inoxpa.com/en/products/systems/cip-systems/cip-manual-mobile-cleaning-system",
+  "img": "https://www.inoxpa.com/media/4fdb1jdu/manual-mobile-cip-system-inoxpa.jpg"
+ },
+ "A8": {
+  "page": "https://www.elpress.com/industrial-washing-systems/washing-systems/crate-washers/",
+  "img": "https://elpress.dw10.dynamicweb-cms.com/Files/Uploads/EKW-1500.webp",
+  "note": "на фото машина Elpress EKW-1500"
+ },
+ "A9": {
+  "page": "https://www.kaeser.com/int-en/products/rotary-screw-compressors/rotary-screw-compressors-with-fluid-cooling/compact-rotary-screw-compressors-up-to-22-kw/with-belt-drive",
+  "img": "https://d15gaovuyz6h3b.cloudfront.net/image/204664918567/image_7of9g3ulup58v817dsfjcqkh32/-FPNG-S1052x592",
+  "note": "на фото SM 16, серия SM"
+ },
+ "A10": {
+  "page": "https://www.inmatec.de/en/nitrogen-pn-series-standard.html",
+  "img": "https://www.inmatec.de/files/inmatec/boge/stickstoffgenerator-pn-150-retusche-version2.png",
+  "note": "на фото PN 150, серия PN"
+ },
+ "A11": {
+  "page": "https://www.enoveneta.it/prodotti/pompe-per-il-trasferimento/pompe-a-girante-in-gomma-t/",
+  "img": "https://www.enoveneta.it/wp-content/uploads/2019/04/Pompe-T_1.png",
+  "note": "серия T"
+ },
+ "A12": {
+  "page": "https://www.inoxpa.com/en/products/mixing/industrial-agitators/agitator-wine-tank/",
+  "img": "https://www.inoxpa.com/media/wgzff01f/agitator-for-wine-tank-cpg-inoxpa.webp"
+ },
+ "A14": {
+  "page": "https://www.danfoss.com/en/products/sen/valves/solenoid-valves/industrial-solenoid-valves/ev220b/",
+  "img": "https://www.danfoss.com/media/bcjlfuoy/ev220b-15-50-complete-solenoid-valve.jpg"
+ },
+ "A15": {
+  "page": "https://www.carel.com/product/ir33-universale",
+  "img": "https://www.carel.com/image/journal/article?img_id=2042011&t=1669218904308",
+  "note": "ir33 и DN33 (DIN)"
+ },
+ "A16": {
+  "page": "https://enoveneta.it/prodotti/pompe-per-il-trasferimento/pompe-a-lobi-lobev/",
+  "img": "https://www.enoveneta.it/wp-content/uploads/2022/10/Home-LOBEV_2022.png"
+ },
+ "A17": {
+  "page": "https://www.enoveneta.it/prodotti/chiarifica-e-filtrazione/filtri-a-farina/",
+  "img": "https://www.enoveneta.it/wp-content/uploads/2019/05/Filtrazione-5.png",
+  "note": "серия намывных фильтров"
+ },
+ "A18": {
+  "page": "https://www.enoveneta.it/prodotti/chiarifica-e-filtrazione/filtri-a-cartoni-frc/",
+  "img": "https://www.enoveneta.it/wp-content/uploads/2018/12/Filtrazione-4.png",
+  "note": "серия FRC"
+ },
+ "A19": {
+  "page": "https://www.winemaster.fr/en/wine-cellar-air-conditioner/wine-sp100/",
+  "img": "https://www.winemaster.fr/wp-content/uploads/2025/02/winemaster-WINESP100-gauche.png"
+ },
+ "A20": {
+  "page": "https://www.gibertini.com/en/product/sdee",
+  "img": "https://www.gibertini.com/media/images/super-dee-copy-628f2e27e3302574635225.png"
+ },
+ "A21": {
+  "page": "https://www.exactaoptech.com/oenology/tartarcheck-tartaric-stability-meter-in-wines/?lang=en",
+  "img": "https://www.exactalabcenter.it/wp-content/uploads/2020/08/tartarcheckplus.jpg",
+  "note": "на фото Tartarcheck Plus"
+ }
+}
